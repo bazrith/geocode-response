@@ -1,0 +1,45 @@
+John and Jane Doe
+500 St.Laurent Blvd
+Ottawa, ON
+K1K 4T6
+
+David Smith
+6537 Laurier Street West
+Ottawa, ON
+
+Andrew Lukas, Angela Lincoln
+3-175 Woodroffe Ave
+Nepean, ON
+K2J 4Y7
+
+John and Rob Smith
+13 Barker Priv 
+Ottawa ON 
+K1K 0P1
+
+Lisa Penten, Bob Pizza
+21 Seneca St 
+Ottawa ON 
+
+Ron Weasley
+3 Desjardins Ave 
+Ottawa ON 
+K1N 9E2
+
+Fred and Linsey Star
+2224 McQuaig St 
+Ottawa ON 
+K1H 7N9
+
+Harry Wes
+647 Westview Ave 
+Ottawa ON 
+
+Ben and Sammy Nguyen
+1171 Ambleside Dr 
+Ottawa ON 
+K2B 8E1
+
+Kim Doe
+655 Melbourne Ave 
+Ottawa ON 
